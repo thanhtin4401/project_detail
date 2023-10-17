@@ -4,7 +4,7 @@ import product2 from "../assets/img/Rectangle 4501.png";
 
 const ProductDetail = () => {
   return (
-    <div className="lg:hidden">
+    <div className="hidden">
       <h1 className="text-[40px] font-bold mb-[30px]">Project Detail</h1>
       <div className="rounded-[20px] shadow-lg">
         <div className="grid grid-cols-2 mt-[10px] gap-[60px]">
@@ -71,9 +71,9 @@ const ProductDetail = () => {
                   <path
                     d="M11 21L17.6667 28L31 14"
                     stroke="white"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   />
                 </svg>
                 <svg
@@ -104,9 +104,9 @@ const ProductDetail = () => {
                   <path
                     d="M11 21L17.6667 28L31 14"
                     stroke="white"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   />
                 </svg>
                 <svg
@@ -131,9 +131,9 @@ const ProductDetail = () => {
                   <path
                     d="M11 21L17.6667 28L31 14"
                     stroke="white"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   />
                 </svg>
                 <svg
@@ -158,9 +158,9 @@ const ProductDetail = () => {
                   <path
                     d="M11 21L17.6667 28L31 14"
                     stroke="white"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   />
                 </svg>
                 <svg
@@ -185,9 +185,9 @@ const ProductDetail = () => {
                   <path
                     d="M11 21L17.6667 28L31 14"
                     stroke="white"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   />
                 </svg>
               </div>

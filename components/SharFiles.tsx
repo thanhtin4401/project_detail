@@ -1,8 +1,10 @@
 const SharFiles = () => {
   return (
     <div className="mt-[30px]">
-      <h1 className="text-[40px] font-bold mb-[30px]">Share Files</h1>
-      <div className="cards grid gap-[50px] lg:grid-cols-4 grid-cols-2">
+      <h1 className=" text-[24px] lg:text-[40px] font-bold mb-[30px]">
+        Share Files
+      </h1>
+      <div className="cards grid gap-4 lg:gap-14 lg:grid-cols-4 grid-cols-2">
         <div className="items">
           <div className="bg-[#fff] h-[150px] space-y-3 rounded-[10px] shadow-md flex flex-col p-[30px]  items-center ">
             <svg
@@ -17,7 +19,7 @@ const SharFiles = () => {
                 fill="#6D6CE3"
               />
             </svg>
-            <p className="text-[24px] font-medium leading-[180%] ">
+            <p className="text-[18px] lg:text-[24px] font-medium leading-[180%] ">
               Share File
             </p>
           </div>
@@ -36,7 +38,7 @@ const SharFiles = () => {
                 fill="#6D6CE3"
               />
             </svg>
-            <p className="text-[24px] font-medium leading-[180%] ">
+            <p className="text-[18px] lg:text-[24px] font-medium leading-[180%] ">
               Share File
             </p>
           </div>
@@ -55,7 +57,7 @@ const SharFiles = () => {
                 fill="#6D6CE3"
               />
             </svg>
-            <p className="text-[24px] font-medium leading-[180%] ">
+            <p className="text-[18px] lg:text-[24px] font-medium leading-[180%] ">
               Share File
             </p>
           </div>
@@ -74,7 +76,7 @@ const SharFiles = () => {
                 fill="#6D6CE3"
               />
             </svg>
-            <p className="text-[24px] font-medium leading-[180%] ">
+            <p className="text-[18px] lg:text-[24px] font-medium leading-[180%] ">
               Share File
             </p>
           </div>
